@@ -1,0 +1,12 @@
+/home/alfresco/Escritorio/Portal-Universitario/repositorios/Reset-Password-Alfresco-v6.2/alfresco-resetpassword/src/main/java/com/flexsolution/resetpassword/webscripts/ResetPasswordPost.java
+/home/alfresco/Escritorio/Portal-Universitario/repositorios/Reset-Password-Alfresco-v6.2/alfresco-resetpassword/src/main/java/com/flexsolution/resetpassword/patch/AlfrescoFileVisitor.java
+/home/alfresco/Escritorio/Portal-Universitario/repositorios/Reset-Password-Alfresco-v6.2/alfresco-resetpassword/src/main/java/com/flexsolution/resetpassword/util/TokenGenerator.java
+/home/alfresco/Escritorio/Portal-Universitario/repositorios/Reset-Password-Alfresco-v6.2/alfresco-resetpassword/src/main/java/com/flexsolution/resetpassword/util/WorkflowHelper.java
+/home/alfresco/Escritorio/Portal-Universitario/repositorios/Reset-Password-Alfresco-v6.2/alfresco-resetpassword/src/main/java/com/flexsolution/resetpassword/util/EmailHelper.java
+/home/alfresco/Escritorio/Portal-Universitario/repositorios/Reset-Password-Alfresco-v6.2/alfresco-resetpassword/src/main/java/com/flexsolution/resetpassword/util/Sudo.java
+/home/alfresco/Escritorio/Portal-Universitario/repositorios/Reset-Password-Alfresco-v6.2/alfresco-resetpassword/src/main/java/com/flexsolution/resetpassword/services/script/ScriptPasswordService.java
+/home/alfresco/Escritorio/Portal-Universitario/repositorios/Reset-Password-Alfresco-v6.2/alfresco-resetpassword/src/main/java/com/flexsolution/resetpassword/namespaces/ResetPasswordNameSpace.java
+/home/alfresco/Escritorio/Portal-Universitario/repositorios/Reset-Password-Alfresco-v6.2/alfresco-resetpassword/src/main/java/com/flexsolution/resetpassword/webscripts/ApplyChangedPasswordPost.java
+/home/alfresco/Escritorio/Portal-Universitario/repositorios/Reset-Password-Alfresco-v6.2/alfresco-resetpassword/src/main/java/com/flexsolution/resetpassword/patch/CopyStructurePatch.java
+/home/alfresco/Escritorio/Portal-Universitario/repositorios/Reset-Password-Alfresco-v6.2/alfresco-resetpassword/src/main/java/com/flexsolution/resetpassword/exceptions/EmailTemplateException.java
+/home/alfresco/Escritorio/Portal-Universitario/repositorios/Reset-Password-Alfresco-v6.2/alfresco-resetpassword/src/main/java/com/flexsolution/resetpassword/webscripts/TaskIsCompletePost.java
